@@ -29,7 +29,7 @@ POST /api/admin/products_create.php (admin only)
 {"name":"Product Name","price":99.99,"stock":10,"imageUrl":"/assets/images/example.png"}
 4) Notes on images
 Store imageUrl as a local path, e.g.: /assets/images/cybershop.png
-Free image sources: AI-generated, Unsplash, Pexels, Pixabay
+other Free image sources product and services: AI-generated, Unsplash, Pexels, Pixabay
 5) Current System Capabilities
 User authentication
 Product management
